@@ -22,7 +22,7 @@
 
 ### 📚 Cursos complementares
 
-- Pós-exploração Linux (Solyd)  
-- Ataques em Aplicações Web (Solyd)  
+- Pós-exploração Linux   
+- Ataques em Aplicações Web   
 - Pentest em Aplicativos Android  
 - Automação e Estratégias em Bug Bounty
