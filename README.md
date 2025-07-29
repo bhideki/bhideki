@@ -9,7 +9,7 @@
   Pentest hands-on com foco em redes, exploração, pós-exploração e pivoting em ambientes Linux/Windows.
 
 - **Solyd Certified Pentester (SYCP)**  
-  *Solyd Offensive Security – 2024*  
+  *Solyd Offensive Security – 2025*  
   Fundamentos ofensivos, uso de ferramentas como Metasploit, enumeração, exploração e pós-exploração.
 
 - **Network Defense**  
