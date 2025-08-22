@@ -17,7 +17,7 @@
   Fundamentos de defesa de redes, TCP/IP, firewalls, IDS/IPS, análise de tráfego e mitigação de ameaças.
 
 - **Certified Red Team Analyst (CRTA)**  
-  *CyberWarfare Labs – Em andamento*  
+  *CyberWarfare Labs – 2025*  
   Red teaming prático, exploração de AD, lateral movement, pivoting e mapeamento com BloodHound e Impacket.
 
 ### 📚 Cursos complementares
