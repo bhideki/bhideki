@@ -20,6 +20,11 @@
   *CyberWarfare Labs – 2025*  
   Red teaming prático, exploração de AD, lateral movement, pivoting e mapeamento com BloodHound e Impacket.
 
+- **Certified Multi-Cloud Red Team Analyst (MCRTA)**
+*CyberWarFare Labs – 2025*  
+Red teaming em ambientes multi-cloud (AWS, Azure, GCP), cobrindo conceitos de initial access, enumeração e pós-exploração.
+
+
 ### 📚 Cursos complementares
 
 - Pós-exploração Linux   
