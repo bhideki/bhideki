@@ -45,7 +45,7 @@ Atualmente trabalhando com: `Pentest` · `Red Team Operations` · `Vulnerability
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USER&show_icons=true&theme=chartreuse-dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhideki&show_icons=true&theme=chartreuse-dark&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhideki&layout=compact&theme=chartreuse-dark&hide_border=true)
 
 </div>
