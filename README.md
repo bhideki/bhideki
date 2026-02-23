@@ -45,8 +45,7 @@ Currently working with: `Pentest` · `Red Team Operations` · `Vulnerability Ass
 
 <div align="center">
 
-[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhideki&theme=chartreuse)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![trophy](https://github-profile-trophy.vercel.app/?username=bhideki&theme=matrix&no-bg=true&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+![Visitor Count](https://komarev.com/ghpvc/?username=bhideki&color=00ff41&style=flat-square&label=Profile+Views)
 
 </div>
 
