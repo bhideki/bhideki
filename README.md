@@ -12,6 +12,7 @@
 Penetration Tester & Red Team Operator with experience in offensive security assessments across corporate environments. Focused on web application testing, Active Directory attacks, cloud security, and threat intelligence.
 
 Currently working with: `Pentest` · `Red Team Operations` · `Vulnerability Assessment` · `OSINT`
+
 ---
 
 ## Toolkit
