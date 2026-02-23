@@ -7,15 +7,14 @@
 
 ---
 
-## 🎯 About
+## About
 
-Junior Penetration Tester & Red Team Operator com atuação em assessments de segurança ofensiva em ambientes corporativos. Foco em web application testing, Active Directory attacks, cloud security e threat intelligence.
+Penetration Tester & Red Team Operator with experience in offensive security assessments across corporate environments. Focused on web application testing, Active Directory attacks, cloud security, and threat intelligence.
 
-Atualmente trabalhando com: `Pentest` · `Red Team Operations` · `Vulnerability Assessment` · `OSINT`
-
+Currently working with: `Pentest` · `Red Team Operations` · `Vulnerability Assessment` · `OSINT`
 ---
 
-## 🛠️ Toolkit
+## Toolkit
 
 ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
@@ -28,7 +27,7 @@ Atualmente trabalhando com: `Pentest` · `Red Team Operations` · `Vulnerability
 
 ---
 
-## 📜 Certifications
+## Certifications
 
 | Badge | Certification | Issuer | Year |
 |-------|--------------|--------|------|
@@ -41,7 +40,7 @@ Atualmente trabalhando com: `Pentest` · `Red Team Operations` · `Vulnerability
 
 ---
 
-## 📊 Stats
+## Stats
 
 <div align="center">
 
