@@ -45,8 +45,8 @@ Currently working with: `Pentest` · `Red Team Operations` · `Vulnerability Ass
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhideki&show_icons=true&theme=chartreuse-dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhideki&layout=compact&theme=chartreuse-dark&hide_border=true)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhideki&theme=chartreuse)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![trophy](https://github-profile-trophy.vercel.app/?username=bhideki&theme=matrix&no-bg=true&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
